@@ -1,1 +1,1 @@
-This code  would be used in ML-Ops lecture.
+This section can be used to store class notes.
